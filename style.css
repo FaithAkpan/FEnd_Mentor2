@@ -136,6 +136,15 @@ img {
     width: max-content;
     flex-direction: column;
   }
+  img {
+    height: 55px;
+    width: max-content;
+    padding-left: 180px;
+    padding-bottom: 10px;
+  }
+  .text {
+    padding: 15px;
+  }
 }
 @media (min-width:  1440px) {
   .supervisor {
