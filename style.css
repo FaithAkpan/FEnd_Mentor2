@@ -132,6 +132,10 @@ img {
     letter-spacing: 1px;
     margin-left: 25px;
   }
+  .bottom {
+    width: max-content;
+    flex-direction: column;
+  }
 }
 @media (min-width:  1440px) {
   .supervisor {
