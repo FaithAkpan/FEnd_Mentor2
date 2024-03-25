@@ -137,9 +137,7 @@ img {
     flex-direction: column;
   }
   img {
-    height: 55px;
-    width: fit-content;
-    padding-left: 100px;
+    height:35px;
     padding-bottom: 10px;
   }
   .text {
